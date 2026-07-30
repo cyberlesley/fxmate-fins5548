@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+  <defs>
+    <style>
+      .title{font:700 38px Manrope,Arial,sans-serif;fill:#102A43}.h{font:700 20px Manrope,Arial,sans-serif;fill:#102A43}
+      .t{font:500 15px Manrope,Arial,sans-serif;fill:#52667C}.num{font:800 20px Manrope,Arial,sans-serif;fill:#fff}
+      .arrow{stroke:#7A8DA1;stroke-width:3;fill:none;marker-end:url(#arrow)}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7A8DA1"/></marker>
+  </defs>
+  <rect width="1600" height="620" fill="#F6F9FB"/>
+  <text x="70" y="72" class="title">FXMate customer journey and trust moments</text>
+  <g>
+    <rect x="70" y="150" width="250" height="300" rx="24" fill="#fff" stroke="#CBD5E0" stroke-width="2"/>
+    <circle cx="115" cy="195" r="24" fill="#0F766E"/><text x="108" y="203" class="num">1</text>
+    <text x="95" y="252" class="h">Define obligation</text>
+    <text x="95" y="288" class="t">University, amount</text><text x="95" y="316" class="t">and payment date</text>
+    <rect x="95" y="352" width="200" height="62" rx="12" fill="#E0F2FE"/>
+    <text x="112" y="378" class="t">Trust: clear purpose</text><text x="112" y="401" class="t">and consent</text>
+
+    <rect x="375" y="150" width="250" height="300" rx="24" fill="#fff" stroke="#CBD5E0" stroke-width="2"/>
+    <circle cx="420" cy="195" r="24" fill="#0F766E"/><text x="413" y="203" class="num">2</text>
+    <text x="400" y="252" class="h">Understand exposure</text>
+    <text x="400" y="288" class="t">Current reference cost</text><text x="400" y="316" class="t">and historical scenarios</text>
+    <rect x="400" y="352" width="200" height="62" rx="12" fill="#FEF3C7"/>
+    <text x="417" y="378" class="t">Trust: rate date and</text><text x="417" y="401" class="t">forecast disclaimer</text>
+
+    <rect x="680" y="150" width="250" height="300" rx="24" fill="#fff" stroke="#CBD5E0" stroke-width="2"/>
+    <circle cx="725" cy="195" r="24" fill="#0F766E"/><text x="718" y="203" class="num">3</text>
+    <text x="705" y="252" class="h">Choose staged plan</text>
+    <text x="705" y="288" class="t">40 / 30 / 30 with</text><text x="705" y="316" class="t">deadline guardrail</text>
+    <rect x="705" y="352" width="200" height="62" rx="12" fill="#E9FBF7"/>
+    <text x="722" y="378" class="t">Trust: explainable rule</text><text x="722" y="401" class="t">and user control</text>
+
+    <rect x="985" y="150" width="250" height="300" rx="24" fill="#fff" stroke="#CBD5E0" stroke-width="2"/>
+    <circle cx="1030" cy="195" r="24" fill="#0F766E"/><text x="1023" y="203" class="num">4</text>
+    <text x="1010" y="252" class="h">Monitor and adjust</text>
+    <text x="1010" y="288" class="t">Rate and deadline</text><text x="1010" y="316" class="t">alerts</text>
+    <rect x="1010" y="352" width="200" height="62" rx="12" fill="#E0F2FE"/>
+    <text x="1027" y="378" class="t">Trust: alert reason</text><text x="1027" y="401" class="t">and opt-out</text>
+
+    <rect x="1290" y="150" width="240" height="300" rx="24" fill="#fff" stroke="#CBD5E0" stroke-width="2"/>
+    <circle cx="1335" cy="195" r="24" fill="#0F766E"/><text x="1328" y="203" class="num">5</text>
+    <text x="1315" y="252" class="h">Act with provider</text>
+    <text x="1315" y="288" class="t">Compare live quotes</text><text x="1315" y="316" class="t">then hand off</text>
+    <rect x="1315" y="352" width="190" height="62" rx="12" fill="#E9FBF7"/>
+    <text x="1332" y="378" class="t">Trust: licensed party</text><text x="1332" y="401" class="t">executes transfer</text>
+  </g>
+  <path d="M320 300 H370" class="arrow"/><path d="M625 300 H675" class="arrow"/><path d="M930 300 H980" class="arrow"/><path d="M1235 300 H1285" class="arrow"/>
+  <rect x="310" y="510" width="980" height="64" rx="18" fill="#102A43"/>
+  <text x="394" y="550" style="font:600 18px Manrope,Arial,sans-serif;fill:#fff">Every recommendation records the input, source rate, rule version, disclosure and user acknowledgement.</text>
+</svg>
